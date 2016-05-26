@@ -34,8 +34,8 @@ header {
 
 #logo h1 {
   letter-spacing: 0.15em;
-  color: #fff;
-  text-shadow: 1px 1px 0px #000;
+  color: yellow;
+  text-shadow: 3px 3px 0px #000;
 }
 
 nav {
